@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32 API CreatePipe Unnamed", "Win32 API CreatePipe Unnamed\Win32 API CreatePipe Unnamed.vcxproj", "{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Debug|x64.ActiveCfg = Debug|x64
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Debug|x64.Build.0 = Debug|x64
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Debug|x86.Build.0 = Debug|Win32
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Release|x64.ActiveCfg = Release|x64
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Release|x64.Build.0 = Release|x64
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Release|x86.ActiveCfg = Release|Win32
+		{8B0E2C7C-2BB0-43C1-8215-CFF3B47B67C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C26DBD3-28FF-47D8-9253-A84B7EA22782}
+	EndGlobalSection
+EndGlobal
